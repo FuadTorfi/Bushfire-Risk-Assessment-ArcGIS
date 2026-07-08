@@ -19,3 +19,7 @@ This project demonstrates a GIS-based bushfire risk assessment for South Austral
 The complete ArcGIS Pro project, geodatabase, and supporting datasets are available on Google Drive:
 
 https://drive.google.com/drive/folders/1PgrHA7czf-zG9MofAGYRTUxcSu4NUxfE?usp=drive_link
+
+## Author
+
+**Fuad Torfi**
